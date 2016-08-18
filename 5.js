@@ -6,4 +6,4 @@ function pow(x, n) {
   }
 }
 
-alert( pow(2, 3) ); // 8
+alert( pow(3, 2) ); // 8
